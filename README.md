@@ -21,4 +21,4 @@ git clone https://github.com/RaphiHeer/public_dotfiles.git ~/.dotfiles
 
 Run Setup-Script
 ```bash
-~/.dotfiles/setup
+~/.dotfiles/setup_configs.sh
